@@ -57,7 +57,7 @@ If you use this work or repository in your research or project, please cite our 
 @article{authors2023deepinverse,
   title={Recovering the Forcing Function in Systems with One Degree of Freedom Using ANN and Physics Information},
   author={Shadab Anwar Shaikh , Harish Cherukuri, and Taufiquar Khan},
-  journal={Journal Name},
+  journal={Algorithms},
   year={2023}
 }
 ```
