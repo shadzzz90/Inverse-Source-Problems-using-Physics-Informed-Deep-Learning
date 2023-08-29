@@ -3,7 +3,8 @@
 
 ## Overview
 
-This repository presents a novel deep learning-based approach to tackle the _Inverse Source Problem_ (ISP) in engineering design. When a system's dynamic response is known or measurable but the source generating these responses remains unknow, it poses a challenge. Solving this challenge is critical, and while traditional techniques rely on optimization and regularization, we've taken a deep dive into the realm of deep learning.
+This repository presents a novel deep learning-based approach to tackle the Inverse Source Problem (ISP) in engineering design. In variety of engineering problems system's dynamic response is known or measurable but the source generating these responses is not known. Addressing this issue is critical, and while traditional techniques rely on optimization and regularization, we've taken a deep dive into the realm of deep learning.
+
 
 ## Key Features
 
