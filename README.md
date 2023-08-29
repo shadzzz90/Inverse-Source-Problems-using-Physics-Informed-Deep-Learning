@@ -1,4 +1,4 @@
-# Inverse-Source-Problems-using-Physic-Informed-Deep-Learning
+# Inverse-Source-Problems-using-Physics-Informed-Deep-Learning
 
 
 ## Overview
