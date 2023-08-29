@@ -55,7 +55,7 @@ Contributions are welcomed! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) f
 If you use this work or repository in your research or project, please cite our paper:
 
 ```bibtex
-@article{authors2023deepinverse,
+@article{SAShaikh2023deepinverse,
   title={Recovering the Forcing Function in Systems with One Degree of Freedom Using ANN and Physics Information},
   author={Shadab Anwar Shaikh , Harish Cherukuri, and Taufiquar Khan},
   journal={Algorithms},
@@ -69,7 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For any inquiries, please open an issue or reach out to the main authors via [email@example.com](mailto:email@example.com).
+For any inquiries, please open an issue or reach out to the main authors via [sshaikh4@charlotte.edu](mailto:sshaikh4@charlotte.edu).
 
 ---
 
