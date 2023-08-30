@@ -51,9 +51,6 @@ While the current results are promising, the domain is vast, and there's more to
 - Extending the model to systems with multiple degrees of freedom.
 - Incorporating real-world noise and uncertainties in the data.
 
-## Contributing
-
-Contributions are welcomed! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to proceed.
 
 ## Citation
 
