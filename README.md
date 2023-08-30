@@ -37,7 +37,10 @@ The results underline the potential of combining deep learning with physics for 
 
 2. **Usage**:
    ```bash
-   python main.py --input path_to_input_data --output path_to_save_results
+   python Train.py 
+   ```
+      ```bash
+   python Test.py 
    ```
 
 ## Future Work
