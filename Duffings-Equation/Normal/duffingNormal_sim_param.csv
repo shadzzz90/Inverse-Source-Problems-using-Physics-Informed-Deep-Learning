@@ -1,0 +1,7 @@
+input_param,param_value
+x0,2.4
+x_dot_0,2.4
+tmax,50
+alpha,0.4
+beta,1.4
+delta,0.6

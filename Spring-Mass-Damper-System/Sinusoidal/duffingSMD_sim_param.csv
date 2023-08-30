@@ -1,0 +1,9 @@
+input_param,param_value
+x0,4.9
+x_dot_0,-2.2
+tmax,50
+alpha,0.9
+beta,0
+delta,0.2
+omega,0.4
+gamma,3

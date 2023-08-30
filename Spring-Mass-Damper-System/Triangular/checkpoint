@@ -1,0 +1,2 @@
+model_checkpoint_path: "main_model_DuffingSMD_tri_Dense_e60000_b250_p80013_lr0.001_elu_he_ini_BN_samp500_t50_lamb0.1"
+all_model_checkpoint_paths: "main_model_DuffingSMD_tri_Dense_e60000_b250_p80013_lr0.001_elu_he_ini_BN_samp500_t50_lamb0.1"
