@@ -36,8 +36,14 @@ The results underline the potential of combining deep learning with physics for 
    - Install required packages: `pip install -r requirements.txt`
 
 2. **Usage**:
-   - Training: 'python Train.py'
-   - Testing: ' python Test.py'
+   - Training:
+     ```bash
+     python Train.py
+     ```
+   - Testing:
+     ```bash
+      python Test.py
+     ```
 
 ## Future Work
 
